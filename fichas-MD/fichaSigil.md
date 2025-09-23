@@ -34,4 +34,7 @@
 |Ctrl + U|Subrayado|
 |Ctrl + R|Sustituir|
 |Ctrl + Alt + A|Sustiruir todo|
-|Ctrl + 
+|Ctrl + [|Sustituir/buscar anterior|
+|Ctrl + ]|Sustituir/buscar siguiente1
+|f10|Vista previa|
+|Ctrl + \|Volver a posición anterior de enlace|
