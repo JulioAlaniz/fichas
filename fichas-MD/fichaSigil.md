@@ -37,4 +37,4 @@
 |Ctrl + [|Sustituir/buscar anterior|
 |Ctrl + ]|Sustituir/buscar siguiente1
 |f10|Vista previa|
-|Ctrl + \|Volver a posición anterior de enlace|
+|Ctrl + \ |Volver a posición anterior de enlace|
