@@ -16,7 +16,8 @@
 |$ less [archivo]|muestra contenido del archivo|
 |$ cat| Lee un o mas archivos y los copia a la salida estandar|
 |$ grep [opciones] [texto] [archivo] |Encuentra patrones dados en un archivo (buscar)|
-||$ grep -R ó -r|busqueda recursiva eb subcarpetas|
+||$ grep -R ó -r|busqueda recursiva eN Subcarpetas|
+||$ grep -H|Mostrar nombre de archivo por defecto en recursivo|
 |$ ccal|Calendario a color|
 |$ cal|Calendario|
 |$ ncal|Calendario vertical|
