@@ -1,5 +1,5 @@
 # Vim - Nvim
-## Atajos de teclado
+## Atajos de teclado |v-0.2
 |Atajos|Acción|
 |---|---|
 |h|Mover cursor a la izquierda|

@@ -15,6 +15,7 @@
 |Ctrl + Alt + V|VsCode|
 |Mayús + Alt + F|Firefox|
 |Mayús + Alt + P|My Paint|
+|Ctrl + W|Cerrar ventana|
 |Ctrl + Ñ|Enrrollar ventana|
 |Alt + Space|menu ventana|
 |Ctrl + F|Buscar|
